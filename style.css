@@ -1,0 +1,60 @@
+header{
+    height: 100px;
+    width: 1000px;
+    text-align: center;
+    border: 3px solid black;
+    border-bottom: none;
+    
+}
+
+.container{
+    border: 3px solid black;
+    border-top: none;
+    position: relative;
+    height: 500px;
+    width: 1000px;
+   
+}
+
+.name{
+    border: 3px solid black;
+    border-left: none;
+    border-bottom: none;
+    height: 500px;
+    width: 20%;
+
+}
+
+.info{
+    
+    width: 80%;
+    height: 500px;
+    position: absolute;
+    left: 20%;
+    top: 0px;  
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    border-top: 3px solid black;
+    
+}
+
+img{
+    height: 300px;
+    width: 500px;
+}
+
+footer{
+    height: 100px;
+    width: 1000px;
+    text-align: center;
+    border: 3px solid black;
+    padding-top: 50px;
+    border-top: none;
+
+}
+
+h3{
+    text-align: center;
+    
+}
